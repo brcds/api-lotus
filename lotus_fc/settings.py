@@ -42,7 +42,8 @@ INSTALLED_APPS = [
 INSTALLED_APPS += [
     'apps.soccer_player',
     'apps.match',
-    'apps.game_result'
+    'apps.game_result',
+    'apps.score'
 ]
 
 
